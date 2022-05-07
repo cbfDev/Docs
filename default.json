@@ -1,0 +1,23 @@
+[
+  {
+    "address": "0x004a5Eb4F605914D497131F0050a18f010aeAb9f",
+    "image": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png",
+    "name": "USDT",
+    "symbol": "USDT",
+    "decimals": 18
+  },
+  {
+    "address": "0x985dEF8480d86191AA5003F5F15c58bf77e22d9b",
+    "image": "https://assets.coingecko.com/coins/images/7968/thumb/alpha-token.jpg",
+    "name": "CFI",
+    "symbol": "CFI",
+    "decimals": 18
+  },
+  {
+    "address": "0xf0BbfD964545273A3814C3eA858EEC9D54a46563",
+    "image": "https://assets.coingecko.com/coins/images/2518/thumb/weth.png",
+    "name": "Wrapped HT",
+    "symbol": "WHT",
+    "decimals": 18
+  }
+]
