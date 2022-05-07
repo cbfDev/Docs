@@ -1,5 +1,12 @@
 [
   {
+    "address": "",
+    "image": "https://assets.coingecko.com/coins/images/9472/small/ShitCoin_200x200.png?1567723695",
+    "name": "Bitcoin Cash",
+    "symbol": "BCH",
+    "decimals": 18
+  },
+  {
     "address": "0x7d65387a378d912e7f25Cc7FA2D269C044efE8F5",
     "image": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png",
     "name": "BUSD",
