@@ -1,9 +1,9 @@
 [
   {
-    "address": "0x004a5Eb4F605914D497131F0050a18f010aeAb9f",
+    "address": "0x7d65387a378d912e7f25Cc7FA2D269C044efE8F5",
     "image": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png",
-    "name": "USDT",
-    "symbol": "USDT",
+    "name": "BUSD",
+    "symbol": "BUSD",
     "decimals": 18
   },
   {
