@@ -1,0 +1,30 @@
+[
+  {
+    "address": "",
+    "image": "https://assets.coingecko.com/coins/images/9472/small/ShitCoin_200x200.png?1567723695",
+    "name": "Unknown",
+    "symbol": "CUBE",
+    "decimals": 18
+  },
+  {
+    "address": "0xBA665a1B3b3874243E9bF5DA55BF02Ab1b40ef22",
+    "image": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png",
+    "name": "BUSD",
+    "symbol": "BUSD",
+    "decimals": 18
+  },
+  {
+    "address": "0xf0BbfD964545273A3814C3eA858EEC9D54a46563",
+    "image": "https://assets.coingecko.com/coins/images/7968/thumb/alpha-token.jpg",
+    "name": "CFI",
+    "symbol": "CFI",
+    "decimals": 18
+  },
+  {
+    "address": "0xb9164670a2f388d835b868b3d0d441fa1be5bb00",
+    "image": "https://assets.coingecko.com/coins/images/2518/thumb/weth.png",
+    "name": "Wrapped CUBE",
+    "symbol": "WCUBE",
+    "decimals": 18
+  }
+]
