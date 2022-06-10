@@ -7,14 +7,14 @@
     "decimals": 18
   },
   {
-    "address": "0xBA665a1B3b3874243E9bF5DA55BF02Ab1b40ef22",
+    "address": "0x326a76C66bd08C61D423233fa9E6A8CB5e8319A3",
     "image": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png",
     "name": "BUSD",
     "symbol": "BUSD",
     "decimals": 18
   },
   {
-    "address": "0xf0BbfD964545273A3814C3eA858EEC9D54a46563",
+    "address": "0x17596584e1dE166d870ABcE6131F60A4369Af0b6",
     "image": "https://cbfdev.github.io/static/media/tokenBalance.67f2782f.svg",
     "name": "CFI",
     "symbol": "CFI",
